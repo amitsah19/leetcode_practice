@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/amitsah19/leetcode_practice/tree/master/0066-plus-one) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/amitsah19/leetcode_practice/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## String
 |  |
 | ------- |
