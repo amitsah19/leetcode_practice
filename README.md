@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/amitsah19/leetcode_practice/tree/master/0001-two-sum) |
+| [0045-jump-game-ii](https://github.com/amitsah19/leetcode_practice/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/amitsah19/leetcode_practice/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/amitsah19/leetcode_practice/tree/master/0066-plus-one) |
 | [0135-candy](https://github.com/amitsah19/leetcode_practice/tree/master/0135-candy) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/amitsah19/leetcode_practice/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/amitsah19/leetcode_practice/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/amitsah19/leetcode_practice/tree/master/0135-candy) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/amitsah19/leetcode_practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/amitsah19/leetcode_practice/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/amitsah19/leetcode_practice/tree/master/0055-jump-game) |
 | [1025-divisor-game](https://github.com/amitsah19/leetcode_practice/tree/master/1025-divisor-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/amitsah19/leetcode_practice/tree/master/1301-number-of-paths-with-max-score) |
