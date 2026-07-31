@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/amitsah19/leetcode_practice/tree/master/0073-set-matrix-zeroes) |
 | [0135-candy](https://github.com/amitsah19/leetcode_practice/tree/master/0135-candy) |
 | [0200-number-of-islands](https://github.com/amitsah19/leetcode_practice/tree/master/0200-number-of-islands) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/amitsah19/leetcode_practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/amitsah19/leetcode_practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1260-shift-2d-grid](https://github.com/amitsah19/leetcode_practice/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/amitsah19/leetcode_practice/tree/master/1288-remove-covered-intervals) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/amitsah19/leetcode_practice/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/amitsah19/leetcode_practice/tree/master/0073-set-matrix-zeroes) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/amitsah19/leetcode_practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/amitsah19/leetcode_practice/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/amitsah19/leetcode_practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/amitsah19/leetcode_practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
