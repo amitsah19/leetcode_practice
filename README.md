@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/amitsah19/leetcode_practice/tree/master/0135-candy) |
 | [0200-number-of-islands](https://github.com/amitsah19/leetcode_practice/tree/master/0200-number-of-islands) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/amitsah19/leetcode_practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0485-max-consecutive-ones](https://github.com/amitsah19/leetcode_practice/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/amitsah19/leetcode_practice/tree/master/0486-predict-the-winner) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/amitsah19/leetcode_practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1260-shift-2d-grid](https://github.com/amitsah19/leetcode_practice/tree/master/1260-shift-2d-grid) |
