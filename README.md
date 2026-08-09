@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/amitsah19/leetcode_practice/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/amitsah19/leetcode_practice/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/amitsah19/leetcode_practice/tree/master/0128-longest-consecutive-sequence) |
+| [0160-intersection-of-two-linked-lists](https://github.com/amitsah19/leetcode_practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/amitsah19/leetcode_practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/amitsah19/leetcode_practice/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/amitsah19/leetcode_practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/amitsah19/leetcode_practice/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/amitsah19/leetcode_practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/amitsah19/leetcode_practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/amitsah19/leetcode_practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/amitsah19/leetcode_practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/amitsah19/leetcode_practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/amitsah19/leetcode_practice/tree/master/0021-merge-two-sorted-lists) |
+| [0160-intersection-of-two-linked-lists](https://github.com/amitsah19/leetcode_practice/tree/master/0160-intersection-of-two-linked-lists) |
 ## Minimax
 |  |
 | ------- |
