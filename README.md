@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/amitsah19/leetcode_practice/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/amitsah19/leetcode_practice/tree/master/0486-predict-the-winner) |
 | [1025-divisor-game](https://github.com/amitsah19/leetcode_practice/tree/master/1025-divisor-game) |
+| [1510-stone-game-iv](https://github.com/amitsah19/leetcode_practice/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/amitsah19/leetcode_practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/amitsah19/leetcode_practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/amitsah19/leetcode_practice/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/amitsah19/leetcode_practice/tree/master/0486-predict-the-winner) |
 | [1025-divisor-game](https://github.com/amitsah19/leetcode_practice/tree/master/1025-divisor-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/amitsah19/leetcode_practice/tree/master/1301-number-of-paths-with-max-score) |
+| [1510-stone-game-iv](https://github.com/amitsah19/leetcode_practice/tree/master/1510-stone-game-iv) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/amitsah19/leetcode_practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/amitsah19/leetcode_practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/amitsah19/leetcode_practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/amitsah19/leetcode_practice/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/amitsah19/leetcode_practice/tree/master/0486-predict-the-winner) |
 | [1025-divisor-game](https://github.com/amitsah19/leetcode_practice/tree/master/1025-divisor-game) |
+| [1510-stone-game-iv](https://github.com/amitsah19/leetcode_practice/tree/master/1510-stone-game-iv) |
 ## Two Pointers
 |  |
 | ------- |
@@ -267,12 +270,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/amitsah19/leetcode_practice/tree/master/0292-nim-game) |
+| [1510-stone-game-iv](https://github.com/amitsah19/leetcode_practice/tree/master/1510-stone-game-iv) |
 ## Nim Game
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/amitsah19/leetcode_practice/tree/master/0292-nim-game) |
+| [1510-stone-game-iv](https://github.com/amitsah19/leetcode_practice/tree/master/1510-stone-game-iv) |
 ## Impartial Game
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/amitsah19/leetcode_practice/tree/master/0292-nim-game) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/amitsah19/leetcode_practice/tree/master/1510-stone-game-iv) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/amitsah19/leetcode_practice/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
