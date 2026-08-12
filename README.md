@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/amitsah19/leetcode_practice/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/amitsah19/leetcode_practice/tree/master/0135-candy) |
 | [0200-number-of-islands](https://github.com/amitsah19/leetcode_practice/tree/master/0200-number-of-islands) |
+| [0209-minimum-size-subarray-sum](https://github.com/amitsah19/leetcode_practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/amitsah19/leetcode_practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/amitsah19/leetcode_practice/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/amitsah19/leetcode_practice/tree/master/0486-predict-the-winner) |
@@ -111,11 +112,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/amitsah19/leetcode_practice/tree/master/0209-minimum-size-subarray-sum) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/amitsah19/leetcode_practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/amitsah19/leetcode_practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/amitsah19/leetcode_practice/tree/master/0209-minimum-size-subarray-sum) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/amitsah19/leetcode_practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/amitsah19/leetcode_practice/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/amitsah19/leetcode_practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -296,4 +299,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/amitsah19/leetcode_practice/tree/master/1510-stone-game-iv) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/amitsah19/leetcode_practice/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
