@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/amitsah19/leetcode_practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/amitsah19/leetcode_practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/amitsah19/leetcode_practice/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/amitsah19/leetcode_practice/tree/master/2029-stone-game-ix) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/amitsah19/leetcode_practice/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/amitsah19/leetcode_practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/amitsah19/leetcode_practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/amitsah19/leetcode_practice/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/amitsah19/leetcode_practice/tree/master/0135-candy) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/amitsah19/leetcode_practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2029-stone-game-ix](https://github.com/amitsah19/leetcode_practice/tree/master/2029-stone-game-ix) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/amitsah19/leetcode_practice/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/amitsah19/leetcode_practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/amitsah19/leetcode_practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/amitsah19/leetcode_practice/tree/master/1025-divisor-game) |
 | [1510-stone-game-iv](https://github.com/amitsah19/leetcode_practice/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/amitsah19/leetcode_practice/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/amitsah19/leetcode_practice/tree/master/2029-stone-game-ix) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/amitsah19/leetcode_practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/amitsah19/leetcode_practice/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/amitsah19/leetcode_practice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -233,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/amitsah19/leetcode_practice/tree/master/0486-predict-the-winner) |
 | [1025-divisor-game](https://github.com/amitsah19/leetcode_practice/tree/master/1025-divisor-game) |
 | [1510-stone-game-iv](https://github.com/amitsah19/leetcode_practice/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/amitsah19/leetcode_practice/tree/master/2029-stone-game-ix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -269,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [2029-stone-game-ix](https://github.com/amitsah19/leetcode_practice/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/amitsah19/leetcode_practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/amitsah19/leetcode_practice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Recursion
@@ -288,11 +293,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/amitsah19/leetcode_practice/tree/master/0292-nim-game) |
 | [1510-stone-game-iv](https://github.com/amitsah19/leetcode_practice/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/amitsah19/leetcode_practice/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/amitsah19/leetcode_practice/tree/master/0292-nim-game) |
 | [1510-stone-game-iv](https://github.com/amitsah19/leetcode_practice/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/amitsah19/leetcode_practice/tree/master/2029-stone-game-ix) |
 ## Impartial Game
 |  |
 | ------- |
@@ -305,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/amitsah19/leetcode_practice/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/amitsah19/leetcode_practice/tree/master/2029-stone-game-ix) |
 ## Prefix Sum
 |  |
 | ------- |
