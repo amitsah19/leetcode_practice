@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/amitsah19/leetcode_practice/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/amitsah19/leetcode_practice/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/amitsah19/leetcode_practice/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/amitsah19/leetcode_practice/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/amitsah19/leetcode_practice/tree/master/0138-copy-list-with-random-pointer) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/amitsah19/leetcode_practice/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/amitsah19/leetcode_practice/tree/master/0066-plus-one) |
 | [0292-nim-game](https://github.com/amitsah19/leetcode_practice/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/amitsah19/leetcode_practice/tree/master/0486-predict-the-winner) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/amitsah19/leetcode_practice/tree/master/0013-roman-to-integer) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/amitsah19/leetcode_practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1927-sum-game](https://github.com/amitsah19/leetcode_practice/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/amitsah19/leetcode_practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
