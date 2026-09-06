@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/amitsah19/leetcode_practice/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/amitsah19/leetcode_practice/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/amitsah19/leetcode_practice/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/amitsah19/leetcode_practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/amitsah19/leetcode_practice/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/amitsah19/leetcode_practice/tree/master/0135-candy) |
 | [0200-number-of-islands](https://github.com/amitsah19/leetcode_practice/tree/master/0200-number-of-islands) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/amitsah19/leetcode_practice/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/amitsah19/leetcode_practice/tree/master/0055-jump-game) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/amitsah19/leetcode_practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/amitsah19/leetcode_practice/tree/master/0486-predict-the-winner) |
 | [1025-divisor-game](https://github.com/amitsah19/leetcode_practice/tree/master/1025-divisor-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/amitsah19/leetcode_practice/tree/master/1301-number-of-paths-with-max-score) |
