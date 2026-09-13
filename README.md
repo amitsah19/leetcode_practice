@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/amitsah19/leetcode_practice/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/amitsah19/leetcode_practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/amitsah19/leetcode_practice/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/amitsah19/leetcode_practice/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/amitsah19/leetcode_practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/amitsah19/leetcode_practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/amitsah19/leetcode_practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/amitsah19/leetcode_practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/amitsah19/leetcode_practice/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/amitsah19/leetcode_practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/amitsah19/leetcode_practice/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/amitsah19/leetcode_practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/amitsah19/leetcode_practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/amitsah19/leetcode_practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/amitsah19/leetcode_practice/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/amitsah19/leetcode_practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/amitsah19/leetcode_practice/tree/master/2029-stone-game-ix) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/amitsah19/leetcode_practice/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/amitsah19/leetcode_practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/amitsah19/leetcode_practice/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/amitsah19/leetcode_practice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -308,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/amitsah19/leetcode_practice/tree/master/2029-stone-game-ix) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/amitsah19/leetcode_practice/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/amitsah19/leetcode_practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/amitsah19/leetcode_practice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Recursion
