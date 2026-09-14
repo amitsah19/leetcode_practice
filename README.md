@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/amitsah19/leetcode_practice/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/amitsah19/leetcode_practice/tree/master/1331-rank-transform-of-an-array) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/amitsah19/leetcode_practice/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/amitsah19/leetcode_practice/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/amitsah19/leetcode_practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/amitsah19/leetcode_practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/amitsah19/leetcode_practice/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/amitsah19/leetcode_practice/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/amitsah19/leetcode_practice/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/amitsah19/leetcode_practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/amitsah19/leetcode_practice/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/amitsah19/leetcode_practice/tree/master/2094-finding-3-digit-even-numbers) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/amitsah19/leetcode_practice/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/amitsah19/leetcode_practice/tree/master/2744-find-maximum-number-of-string-pairs) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/amitsah19/leetcode_practice/tree/master/0486-predict-the-winner) |
 | [1025-divisor-game](https://github.com/amitsah19/leetcode_practice/tree/master/1025-divisor-game) |
 | [1510-stone-game-iv](https://github.com/amitsah19/leetcode_practice/tree/master/1510-stone-game-iv) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/amitsah19/leetcode_practice/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1927-sum-game](https://github.com/amitsah19/leetcode_practice/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/amitsah19/leetcode_practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/amitsah19/leetcode_practice/tree/master/2029-stone-game-ix) |
@@ -320,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1814-count-nice-pairs-in-an-array](https://github.com/amitsah19/leetcode_practice/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2029-stone-game-ix](https://github.com/amitsah19/leetcode_practice/tree/master/2029-stone-game-ix) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/amitsah19/leetcode_practice/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/amitsah19/leetcode_practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
