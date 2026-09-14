@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/amitsah19/leetcode_practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/amitsah19/leetcode_practice/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/amitsah19/leetcode_practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2094-finding-3-digit-even-numbers](https://github.com/amitsah19/leetcode_practice/tree/master/2094-finding-3-digit-even-numbers) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/amitsah19/leetcode_practice/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/amitsah19/leetcode_practice/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/amitsah19/leetcode_practice/tree/master/2744-find-maximum-number-of-string-pairs) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/amitsah19/leetcode_practice/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/amitsah19/leetcode_practice/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/amitsah19/leetcode_practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2094-finding-3-digit-even-numbers](https://github.com/amitsah19/leetcode_practice/tree/master/2094-finding-3-digit-even-numbers) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/amitsah19/leetcode_practice/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/amitsah19/leetcode_practice/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/amitsah19/leetcode_practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2094-finding-3-digit-even-numbers](https://github.com/amitsah19/leetcode_practice/tree/master/2094-finding-3-digit-even-numbers) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/amitsah19/leetcode_practice/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/amitsah19/leetcode_practice/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/amitsah19/leetcode_practice/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -102,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/amitsah19/leetcode_practice/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/amitsah19/leetcode_practice/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/amitsah19/leetcode_practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2094-finding-3-digit-even-numbers](https://github.com/amitsah19/leetcode_practice/tree/master/2094-finding-3-digit-even-numbers) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/amitsah19/leetcode_practice/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/amitsah19/leetcode_practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/amitsah19/leetcode_practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -325,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/amitsah19/leetcode_practice/tree/master/0021-merge-two-sorted-lists) |
 | [0486-predict-the-winner](https://github.com/amitsah19/leetcode_practice/tree/master/0486-predict-the-winner) |
+| [2094-finding-3-digit-even-numbers](https://github.com/amitsah19/leetcode_practice/tree/master/2094-finding-3-digit-even-numbers) |
 ## Linked List
 |  |
 | ------- |
