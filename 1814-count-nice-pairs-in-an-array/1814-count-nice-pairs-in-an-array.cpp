@@ -16,15 +16,10 @@ public:
         unordered_map<int, int> mp;
         for (int i = 0; i < n; i++) {
             int temp = reverse(nums[i]);
+            if(mp.count(nums[i]-temp))ans=(ans+(mp[nums[i]-temp]))%mod;
             mp[nums[i] - temp]++;
         }
-        for (auto it : mp) {
-            if (it.second > 1) {
-                int num = it.second;
-                ans += (num%mod)*((num-1)%mod)/2;
-                ans = ans % mod;
-            }
-        }
+   
         return ans;
     }
 };
