@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/amitsah19/leetcode_practice/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/amitsah19/leetcode_practice/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/amitsah19/leetcode_practice/tree/master/0022-generate-parentheses) |
 | [0686-repeated-string-match](https://github.com/amitsah19/leetcode_practice/tree/master/0686-repeated-string-match) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/amitsah19/leetcode_practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1927-sum-game](https://github.com/amitsah19/leetcode_practice/tree/master/1927-sum-game) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/amitsah19/leetcode_practice/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/amitsah19/leetcode_practice/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/amitsah19/leetcode_practice/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amitsah19/leetcode_practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -425,4 +427,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/amitsah19/leetcode_practice/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/amitsah19/leetcode_practice/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/amitsah19/leetcode_practice/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
