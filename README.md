@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/amitsah19/leetcode_practice/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/amitsah19/leetcode_practice/tree/master/0031-next-permutation) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/amitsah19/leetcode_practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0045-jump-game-ii](https://github.com/amitsah19/leetcode_practice/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/amitsah19/leetcode_practice/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/amitsah19/leetcode_practice/tree/master/0066-plus-one) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/amitsah19/leetcode_practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/amitsah19/leetcode_practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/amitsah19/leetcode_practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/amitsah19/leetcode_practice/tree/master/2812-find-the-safest-path-in-a-grid) |
