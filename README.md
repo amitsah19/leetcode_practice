@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/amitsah19/leetcode_practice/tree/master/0066-plus-one) |
 | [0292-nim-game](https://github.com/amitsah19/leetcode_practice/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/amitsah19/leetcode_practice/tree/master/0486-predict-the-winner) |
+| [0633-sum-of-square-numbers](https://github.com/amitsah19/leetcode_practice/tree/master/0633-sum-of-square-numbers) |
 | [1025-divisor-game](https://github.com/amitsah19/leetcode_practice/tree/master/1025-divisor-game) |
 | [1510-stone-game-iv](https://github.com/amitsah19/leetcode_practice/tree/master/1510-stone-game-iv) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/amitsah19/leetcode_practice/tree/master/1814-count-nice-pairs-in-an-array) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/amitsah19/leetcode_practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/amitsah19/leetcode_practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/amitsah19/leetcode_practice/tree/master/0540-single-element-in-a-sorted-array) |
+| [0633-sum-of-square-numbers](https://github.com/amitsah19/leetcode_practice/tree/master/0633-sum-of-square-numbers) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/amitsah19/leetcode_practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/amitsah19/leetcode_practice/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/amitsah19/leetcode_practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/amitsah19/leetcode_practice/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/amitsah19/leetcode_practice/tree/master/0075-sort-colors) |
 | [0160-intersection-of-two-linked-lists](https://github.com/amitsah19/leetcode_practice/tree/master/0160-intersection-of-two-linked-lists) |
+| [0633-sum-of-square-numbers](https://github.com/amitsah19/leetcode_practice/tree/master/0633-sum-of-square-numbers) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/amitsah19/leetcode_practice/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/amitsah19/leetcode_practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/amitsah19/leetcode_practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
