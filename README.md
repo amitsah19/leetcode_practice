@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/amitsah19/leetcode_practice/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/amitsah19/leetcode_practice/tree/master/0486-predict-the-winner) |
 | [0540-single-element-in-a-sorted-array](https://github.com/amitsah19/leetcode_practice/tree/master/0540-single-element-in-a-sorted-array) |
+| [0875-koko-eating-bananas](https://github.com/amitsah19/leetcode_practice/tree/master/0875-koko-eating-bananas) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/amitsah19/leetcode_practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/amitsah19/leetcode_practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1207-unique-number-of-occurrences](https://github.com/amitsah19/leetcode_practice/tree/master/1207-unique-number-of-occurrences) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/amitsah19/leetcode_practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/amitsah19/leetcode_practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/amitsah19/leetcode_practice/tree/master/0633-sum-of-square-numbers) |
+| [0875-koko-eating-bananas](https://github.com/amitsah19/leetcode_practice/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/amitsah19/leetcode_practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/amitsah19/leetcode_practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/amitsah19/leetcode_practice/tree/master/3501-maximize-active-section-with-trade-ii) |
